@@ -1,0 +1,12 @@
+.filter {
+    display:flex;
+    
+}
+.labe {
+    font-size:22px;
+
+}
+body {
+    background:coral;
+    color:navy;
+}
